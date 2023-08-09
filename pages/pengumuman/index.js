@@ -184,7 +184,7 @@ function pengumuman() {
                   <th className="border-b border-gray-200 px-4 py-2 bg-blue-600 text-white">Title</th>
                   <th className="border-b border-gray-200 px-4 py-2 bg-blue-600 text-white">Message</th>
 
-                  <th className="border-b border-gray-200 px-4 py-2 bg-blue-600 text-white">Gambar</th>
+                  <th className="border-b border-gray-200 px-4 py-2 bg-blue-600 text-white">Gambarr</th>
                   <th className="border-b border-gray-200 px-4 py-2 bg-blue-600 text-white">Link</th>
                   <th className="border-b border-gray-200 px-4 py-2 bg-blue-600 text-white">Edit</th>
                   <th className="border-b border-gray-200 px-4 py-2 bg-blue-600 text-white">Delete</th>
