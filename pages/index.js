@@ -139,12 +139,11 @@ const Dashboard = () => {
                                 <i className="pi pi-bell text-xl text-blue-500" />
                             </div>
                             <span className="text-900 line-height-3">
-                                Penawaran Menulis di Majalah Warta Anggaran Edisi 40
+                                Aplikasi SIMPONI
                                 <span className="text-700">
                                     {' '}
-                                    Majalah Warta Anggaran merupakan salah satu media informasi yang 
-                                    dimiliki DJA yang didistribusikan kepada seluruh pegawai dan stakeholder DJA. 
-                                    <span className="text-blue-500">79$</span>
+                                    Sistem Informasi PNBP Online (SIMPONI), merupakan sistem billing yang dikelola oleh DJA untuk memfasilitasi 
+                                    pembayaran atau penyetoran PNBP dan penerimaan non anggaran. 
                                 </span>
                             </span>
                         </li>
@@ -152,8 +151,14 @@ const Dashboard = () => {
                             <div className="w-3rem h-3rem flex align-items-center justify-content-center bg-orange-100 border-circle mr-3 flex-shrink-0">
                                 <i className="pi pi-download text-xl text-orange-500" />
                             </div>
-                            <span className="text-700 line-height-3">
-                                Your request for withdrawal of <span className="text-blue-500 font-medium">2500$</span> has been initiated.
+                            <span className="text-900 line-height-3">
+                                Aplikasi Satu Anggaran
+                                <span className="text-700">
+                                    {' '}
+                                    Satu DJA merupakan sebuah sistem yang mengintegrasikan seluruh sistem informasi dan sistem aplikasi yang dihasilkan 
+                                    oleh DJA, sehingga diharapkan pegawai DJA dan stakeholder DJA hanya perlu mengakses satu sistem aplikasi untuk 
+                                    menyelesaikan seluruh proses bisnis penganggaran. 
+                                </span>
                             </span>
                         </li>
                     </ul>
@@ -165,10 +170,11 @@ const Dashboard = () => {
                                 <i className="pi pi-globe text-xl text-blue-500" />
                             </div>
                             <span className="text-900 line-height-3">
-                                Keyser Wick
+                                Aplikasi SPAN
                                 <span className="text-700">
                                     {' '}
-                                    has purchased a black jacket for <span className="text-blue-500">59$</span>
+                                    SPAN adalah sistem aplikasi yang ada di lingkungan Kemenkeu dan untuk mendukung otomatisasi sistem dari pengguna 
+                                    anggaran yang ada di setiap Kementerian Negara/Lembaga.
                                 </span>
                             </span>
                         </li>
@@ -177,8 +183,9 @@ const Dashboard = () => {
                                 <i className="pi pi-question text-xl text-pink-500" />
                             </div>
                             <span className="text-900 line-height-3">
-                                Jane Davis
-                                <span className="text-700"> has posted a new questions about your product.</span>
+                                Aplikasi SMART
+                                <span className="text-700">  Aplikasi SMART adalah aplikasi berbasis web yang dibangun guna memudahkan satuan kerja dalam monitoring
+                                dan evaluasi pelaksanaan anggaran.</span>
                             </span>
                         </li>
                     </ul>

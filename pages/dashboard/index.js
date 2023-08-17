@@ -113,38 +113,7 @@ const dashboard = () => {
                                 </a>
                             </div>
                         </Panel>)}
-                        <Panel header="Sekretariat" toggleable>
-                            <Image src={`${contextPath}/demo/images/login/Gabungan.jpg`} alt="login" width={330} preview />
-                            <p>
-                                Halo Sobat DJA! Babak Kualifikasi Pemilihan Agen Perubahan Terbaik dalam Penyederhanaan Probis DJA,
-                                melalui *Kompetisi Inovasi DJA 2022* kini telah usai. Melalui dewan juri, telah dipilih 10 peserta
-                                inovasi eksternal dan 10 peserta inovasi internal untuk masuk ke *Babak Final*. Mau tahu sapa saja
-                                yang masuk Babak Kualifikasi, Yuk cek di sini
-                            </p>
-                            <div>
-                                <a href="https://www.youtube.com/watch?v=TsiSyCvXhZc" target="_blank" rel="noopener noreferrer" className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">
-                                    Tautan YouTube
-                                </a>
-                            </div>
-                        </Panel>
-                        <Panel header="Sekretariat" toggleable >
-                            <Image src={`${contextPath}/demo/images/login/Hari Anti Korupsi.png`} alt="login" width={330} preview />
-                            <p>
-                                Untuk menjaga dan meningkatkan semangat berintegritas dan anti korupsi di lingkungan
-                                Direktorat Jenderal Anggaran, berikut kami sampaikan dokumentasi kegiatan Puncak Acara
-                                Hakordia yang dilaksanakan pada tanggal 19 Desember 2022 melalui tautan
-                                dibawah ini dengan agenda: Dialog interaktif bersama Bapak Amien Sunaryadi, Pengumuman
-                                Pemenang Lomba Film Pendek dan Animasi Anti Korupsi, Penyerahan Piagam Predikat WBK
-                                kepada 6 Unit Eselon II DJA
-                            </p>
-                            <div>
-                                <a href="https://drive.google.com/drive/folders/1vuFXRGAH12M_xvzAOSIcaHXOxjtdYi6Q" target="_blank"
-                                    rel="noopener noreferrer" className="bg-yellow-500 hover:bg-yellow-700 text-white font-bold py-2 
-                                px-4 rounded">
-                                    Tautan Google Drive
-                                </a>
-                            </div>
-                        </Panel>
+                        
                     </div>
                 </div>
 

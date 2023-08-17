@@ -130,7 +130,7 @@ const registrasiuser = () => {
                             </div>
 
                             <div className="col-4 md:col-4">
-                                <Button label="Tambah" icon="pi pi-check-circle"
+                                <Button label="Registrasi" icon="pi pi-check-circle"
                                     onClick={() => {
                                         alert('Processing adding user!')
                                         axios.post(`${process.env.NEXT_PUBLIC_BACKENDURL}/admin/user`, {
